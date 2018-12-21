@@ -220,4 +220,10 @@ ja:
   Book_was_successfully_created: 登録完了
   Book_was_successfully_updated: 更新完了
   Book_was_successfully_destroyed: 削除完了
-
+  views:
+    pagination:
+      first: "最初"
+      last: "最後"
+      previous: "前"
+      next: "次"
+      truncate: "..."
